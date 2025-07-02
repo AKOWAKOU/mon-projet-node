@@ -35,8 +35,8 @@ Un système d'authentification complet construit avec Node.js, Express et MongoD
 
 1. **Cloner le projet**
    ```bash
-   git clone <repository-url>
-   cd node-auth-mvc
+   git clone https://github.com/AKOWAKOU/mon-projet-node.git
+   cd mon-projet-node
    ```
 
 2. **Installer les dépendances**
